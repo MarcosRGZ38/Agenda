@@ -1,0 +1,19 @@
+#+TITLE: Estadística
+* TODO pasa el archivo a limpio 
+
+#+TITLE: Transmision del calor
+* TODO ejercicios aplicando integral doble 
+#+TITLE: economia 
+* TODO mirar temario de radiacion y diferentes variables con sus nombres
+#+TITLE: teoria de circuitos 
+* TODO estudiar a basto todo el temario -
+    ** TODO Corriente continua 
+    ** TODO Corriente Alterna 
+    ** TODO Transitorios 
+    ** TODO trifasica 
+    ** TODO problemas
+#+TITLE: ciencia de materiales
+* TODO estudiar basto todo el temario ->
+    ** TODO primeros temas 
+    
+#+TITLE: title text
