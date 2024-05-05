@@ -1,12 +1,18 @@
+# TRASLADO DE EXPEDIENTE:  GRADO EN INGENIERIA ELECTRONICA INDUSTRIAL Y AUTOMATICA 
+* TODO solicitud de admision <2024-05-20> https://tramitesestudiantes.upm.es/login
+* TODO solicitud de reconocimiento de creditos <2024-05-20>
+--> solicitud final ** el día <2024-06-17>
+
+
 # ESTADÍSTICA
-* TODO cheat sheet tema 8 con todos los intervalos de confianza <2024-05-05>
+* TODO cheat sheet intervalos de confianza <2024-05-05> 
 * TODO Hoja de ejercicios aplicando lo que tengo que saber sobre ellas 
 
 # TRANSMISION DE CALOR 
 * TODO ejercicios aplicando integral doble 
 * TODO mirar temario de radiacion y diferentes variables con sus nombres
 # TEORIA DE CIRCUITOS 
-* WAIT estudiar a basto todo el temari -co
+* WAIT estudiar a basto todo el temario 
 ** WAIT Corriente continua
 ** WAIT Corriente Alterna
 ** WAIT Transitorios
