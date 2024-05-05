@@ -1,16 +1,33 @@
-# ESTADISTICA
+# ESTADÍSTICA
+* TODO cheat sheet tema 8 con todos los intervalos de confianza <2024-05-05>
+* TODO Hoja de ejercicios aplicando lo que tengo que saber sobre ellas 
+
+# TRANSMISION DE CALOR 
 * TODO ejercicios aplicando integral doble 
 * TODO mirar temario de radiacion y diferentes variables con sus nombres
 # TEORIA DE CIRCUITOS 
-* TODO estudiar a basto todo el temari -co
-** TODO Corriente continua
-** TODO Corriente Alterna
-** TODO Transitorios
-** TODO trifasica 
-** TODO problemas
-# ECONOMIA
-* TODO estudiar basto todo el temario ->
-** TODO primeros temas
-:LOGBOOK:
-CLOCK: [2024-05-05 do. 00:21]
-:END:
+* WAIT estudiar a basto todo el temari -co
+** WAIT Corriente continua
+** WAIT Corriente Alterna
+** WAIT Transitorios
+** WAIT trifasica 
+** WAIT problemas
+# ECONOMIA 
+SCHEDULED: <2024-06-27 ju.>
+
+
+*** Lista del temario
+ Economia, ciencia politica y social 
+ MicroEconomia
+ MacroEconomia
+ Economia Española
+ Comercio internacional
+
+ Empresa, sistema, marco empresarial
+ Organizacion y documentacion
+ Produccion, costes y comercializacion
+ Inversion y financiacion
+
+  
+  
+
