@@ -12,7 +12,8 @@ SCHEDULED: <2024-05-14 ma.>
 
 # ESTADÍSTICA
 * DONE cheat sheet intervalos de confianza <2024-05-05> 
-* DONE Hoja de ejercicios aplicando lo que tengo que saber sobre ellas 
+* DONE Hoja de ejercicios aplicando lo que tengo que saber sobre ellas
+* TODO Preguntar dudas mañana de todo lo que tengo apuntado 
 
 # TRANSMISION DE CALOR 
 * TODO ejercicios aplicando integral doble 
@@ -29,16 +30,17 @@ SCHEDULED: <2024-06-27 ju.>
 
 
 *** Lista del temario
- Economia, ciencia politica y social 
- MicroEconomia
- MacroEconomia
- Economia Española
- Comercio internacional
+SCHEDULED: <2024-05-06 lu.>
+ Economia, ciencia politica y social []
+ MicroEconomia []
+ MacroEconomia []
+ Economia Española []
+ Comercio internacional []
 
- Empresa, sistema, marco empresarial
- Organizacion y documentacion
- Produccion, costes y comercializacion
- Inversion y financiacion
+ Empresa, sistema, marco empresarial []
+ Organizacion y documentacion []
+ Produccion, costes y comercializacion []
+ Inversion y financiacion []
 
   
   
