@@ -1,31 +1,31 @@
-# TRASLADO DE EXPEDIENTE:  GRADO EN INGENIERIA ELECTRONICA INDUSTRIAL Y AUTOMATICA 
+# TRASLADO DE EXPEDIENTE:  GRADO EN INGENIERIA ELECTRONICA INDUSTRIAL Y AUTOMATICA
 * TODO solicitud de admision <2024-05-20> https://tramitesestudiantes.upm.es/login
 * TODO solicitud de reconocimiento de creditos <2024-05-20>
 
 # MEDICINA
 * Urologia dia 14 de mayo
-* Hora 9:30 de la maÒana
+* Hora 9:30 de la maÔøΩana
 * Calle maestro vives 3
 SCHEDULED: <2024-05-14 ma.>
---> solicitud final ** el dÌa <2024-06-17>
+--> solicitud final ** el dÔøΩa <2024-06-17>
 
 
-# ESTADÕSTICA
-* DONE cheat sheet intervalos de confianza <2024-05-05> 
+# ESTAD√çSTICA
+* DONE cheat sheet intervalos de confianza <2024-05-05>
 * DONE Hoja de ejercicios aplicando lo que tengo que saber sobre ellas
-* TODO Preguntar dudas maÒana de todo lo que tengo apuntado 
+* DONE Preguntar dudas maÔøΩana de todo lo que tengo apuntado
 
-# TRANSMISION DE CALOR 
-* TODO ejercicios aplicando integral doble 
+# TRANSMISION DE CALOR
+* TODO  ejercicios aplicando integral doble
 * TODO mirar temario de radiacion y diferentes variables con sus nombres
-# TEORIA DE CIRCUITOS 
-*  estudiar a basto todo el temario 
+# TEORIA DE CIRCUITOS
+*  estudiar a basto todo el temario
 ** WAIT Corriente continua
 ** WAIT Corriente Alterna
 ** WAIT Transitorios
-** WAIT trifasica 
+** WAIT trifasica
 ** WAIT problemas
-# ECONOMIA 
+# ECONOMIA
 SCHEDULED: <2024-06-27 ju.>
 
 
@@ -34,7 +34,7 @@ SCHEDULED: <2024-05-06 lu.>
  Economia, ciencia politica y social []
  MicroEconomia []
  MacroEconomia []
- Economia EspaÒola []
+ Economia Espa√±ola []
  Comercio internacional []
 
  Empresa, sistema, marco empresarial []
@@ -42,5 +42,5 @@ SCHEDULED: <2024-05-06 lu.>
  Produccion, costes y comercializacion []
  Inversion y financiacion []
 
-  
-  
+
+
