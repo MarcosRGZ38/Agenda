@@ -16,7 +16,7 @@ SCHEDULED: <2024-05-14 ma.>
 * DONE Preguntar dudas ma�ana de todo lo que tengo apuntado
 
 # TRANSMISION DE CALOR
-* TODO  ejercicios aplicando integral doble
+* TODO  ejercicios aplicando integral doble <8-5-2024> Cheat sheets temario Radiacion
 * TODO mirar temario de radiacion y diferentes variables con sus nombres
 # TEORIA DE CIRCUITOS
 *  estudiar a basto todo el temario
