@@ -1,7 +1,7 @@
 # TRASLADO DE EXPEDIENTE:  GRADO EN INGENIERIA ELECTRONICA INDUSTRIAL Y AUTOMATICA
-* TODO solicitud de admision <2024-05-20> https://tramitesestudiantes.upm.es/login
-* TODO solicitud de reconocimiento de creditos <2024-05-20>
-
+* TODO solicitud de admision <2024-05-10> https://tramitesestudiantes.upm.es/login
+* TODO solicitud de reconocimiento de creditos <2024-05-10>
+**Firmar mañana las solicitudes pertinentes 
 # MEDICINA
 * Urologia dia 14 de mayo
 * Hora 9:30 de la ma�ana
@@ -14,6 +14,7 @@ SCHEDULED: <2024-05-14 ma.>
 * DONE cheat sheet intervalos de confianza <2024-05-05>
 * DONE Hoja de ejercicios aplicando lo que tengo que saber sobre ellas
 * DONE Preguntar dudas ma�ana de todo lo que tengo apuntado
+* TODO Ejercicio de la accin cooperativa del otro dia (7- tema 8 inferencia estadística)
 
 # TRANSMISION DE CALOR
 * TODO Cheat sheets temario Radiacion
