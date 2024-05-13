@@ -11,7 +11,7 @@ SCHEDULED: <2024-05-14 ma.>
 --> solicitud final ** el d�a <2024-06-17>
 
 
-# ESTADÍSTICAa
+# ESTADÍSTICA
 * DONE cheat sheet intervalos de confianza <2024-05-05>
 * DONE Hoja de ejercicios aplicando lo que tengo que saber sobre ellas
 * DONE Preguntar dudas ma�ana de todo lo que tengo apuntado
