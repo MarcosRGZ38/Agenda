@@ -21,11 +21,11 @@ SCHEDULED: <2024-05-14 ma.>
 * TODO Cheat sheets temario Radiacion
 *** Lista del temario 
 SCHEDULED <2024-05-07>
- Espectro ElectroMagnetico [] 
- Radiacion Térmica[]
- Magnitudes Fisicas (Emitancia,transmitancia,irradiacion)[]
- Ley de Lambert, aplicaciones[]
- Superficies Grises y reales []
+ Espectro ElectroMagnetico [x] 
+ Radiacion Térmica[x]
+ Magnitudes Fisicas (Emitancia,transmitancia,irradiacion)[x]
+ Ley de Lambert, aplicaciones[x]
+ Superficies Grises y reales [x]
  Intercambio de radiacion entre superficies []
  Transmision de calor compleja []
 * TODO mirar temario de radiacion y diferentes variables con sus nombres
